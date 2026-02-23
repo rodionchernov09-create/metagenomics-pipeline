@@ -1,0 +1,10 @@
+# Тестовая конфигурация
+samples: ["test_sample"]
+raw_reads_dir: "../data/raw"
+results_dir: "../results"
+min_contig_len: 500
+threads: 4
+min_quality: 20
+min_read_length: 50
+kmer_size: 31
+viral_threshold: 0.7
