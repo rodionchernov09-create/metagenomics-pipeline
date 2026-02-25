@@ -14,7 +14,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/ТВОЙ_ЛОГИН/metagenomics-pipeline.git
+git clone https://github.com/rodionchernov09-create/metagenomics-pipeline.git
 cd metagenomics-pipeline
 
 # Создать окружение
